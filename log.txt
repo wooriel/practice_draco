@@ -1,0 +1,22 @@
+console logging redirected to `tqdm.write()`
+console logging redirected to `tqdm.write()`
+console logging redirected to `tqdm.write()`
+console logging redirected to `tqdm.write()`
+console logging redirected to `tqdm.write()`
+console logging redirected to `tqdm.write()`
+console logging redirected to `tqdm.write()`
+console logging redirected to `tqdm.write()`
+console logging redirected to `tqdm.write()`
+console logging redirected to `tqdm.write()`
+Start conversion
+Saved /home/riella/practice_draco/data/draco/bun000.drc
+Finished conversion
+Start conversion
+Saved /home/riella/practice_draco/data/draco/bun000.drc
+Finished conversion
+Start conversion
+Saved /home/riella/practice_draco/data/draco/bun000.drc
+Finished conversion
+Start conversion
+Saved /home/riella/practice_draco/data/draco/bun000.drc
+Finished conversion
